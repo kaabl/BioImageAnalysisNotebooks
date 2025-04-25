@@ -42,6 +42,7 @@ parts:
       - file: 12_image_analysis_basics/04_Cropping_images
       - file: 12_image_analysis_basics/05_Masking_images.ipynb
       - file: 12_image_analysis_basics/06_multi_channel_image_data
+      - file: 12_image_analysis_basics/normalization.ipynb
 
     - file: 12a_image_file_formats/readme
       sections:
